@@ -56,7 +56,7 @@ O site está hospedado gratuitamente na plataforma [Vercel](https://vercel.com/)
 
 ---
 
-## 👩‍🏫 Créditos
+## 👨‍🏫 Créditos
 
 Desenvolvido por João Vitor Macedo
 
